@@ -36,7 +36,7 @@ To get started with Balloons & Booleans, follow these steps:
 1. **Download and Install Unity**: Ensure you have the latest version of Unity installed on your machine. You can download it from the [Unity website](https://unity.com/).
 2. **Clone the Repository**: Use the following command to clone the repository:
    ```bash
-   git clone https://github.com/yourusername/balloons-and-booleans.git
+   git clone https://github.com/shahenwaz/challenge3_IMM
    ```
 3. **Open the Project**: Launch Unity Hub and open the cloned project folder.
 4. **Install Dependencies**: If there are any additional packages or assets required, they will be listed in the README or in a separate documentation file.
