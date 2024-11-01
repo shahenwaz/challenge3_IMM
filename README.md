@@ -1,4 +1,4 @@
-# Challenge 3: Balloons & Booleans
+# Unity Challenge 3 : Balloons & Booleans
 
 Balloons & Booleans is an interactive game developed using Unity that challenges players to pop balloons based on Boolean logic puzzles. The game provides an engaging way to learn and apply basic programming concepts, making it suitable for both beginners and experienced developers looking to refine their skills.
 
